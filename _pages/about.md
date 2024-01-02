@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Miquel! I strive to bridge the gap between theoretical machine learning and real-world applications.  
+Hi, I'm Miquel! (though some people recognise me as Tintin) I strive to bridge the gap between theoretical machine learning and real-world applications.  
 
 I'm a data scientist currently studying a Master of Science in Machine Learning, Data Science and Artificial Intelligence at [Aalto University](https://www.aalto.fi/en). Prior to that, I completed my Bachelor's thesis, working in the generation of datasets for training positron emission tomography image reconstruction methods at the [Department of Applied Mathematics at the Universitat Politècnica de València](https://www.upv.es/entidades/DMAA/index-en.html) under the supervision of [Samuel Morillas](https://www.upv.es/pls/oalu/sic_person.Info?p_alias=smorillas&P_IDIOMA=i).
 
@@ -25,4 +25,4 @@ I'm currently working as a Research Assistant at the [Department of Marketing](h
 
 When I was a kid, I used to practice swimming professionally and judo. Right now, in my free time, I like going to the gym, watching movies and travelling.
 
-I thank you for having made it this far. You can reach me at \href{mailto:miquelmarin43@gmail.com}{miquelmarin43@gmail.com}.
+I thank you for having made it this far. You can reach me at [miquelmarin43@gmail.com](mailto:miquelmarin43@gmail.com).
