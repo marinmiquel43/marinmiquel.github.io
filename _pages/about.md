@@ -23,6 +23,6 @@ Related to my current research interests, I like to discuss possible future dire
 
 I'm currently working as a Research Assistant at the [Department of Marketing](https://www.aalto.fi/en/department-of-marketing), studying the value that consumers attribute to artworks created with the assistance of generative AI in art auction sites.
 
-I started swimming and judo as a child. Nowadays, I enjoy going to the gym, watching movies, reading and travelling.
+As a child I started in the practice of judo and swimming. Nowadays, I enjoy going to the gym, watching movies, reading and travelling.
 
 I thank you for having made it this far. You can reach me at [miquelmarin43@gmail.com](mailto:miquelmarin43@gmail.com).
