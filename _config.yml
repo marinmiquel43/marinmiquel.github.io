@@ -115,7 +115,7 @@ contact_note: > # You can even add a little note about which of these is the bes
 google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
-google_site_verification: 7mNKbvS-stW8q2Xkm0R2D8FgH4oYDhk3PP0WbL_q06c  # your google-site-verification ID (Google Search Console)
+google_site_verification:   # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
