@@ -21,7 +21,7 @@ I'm a data scientist currently studying a Master of Science in Machine Learning,
 
 Related to my current research interests, I like to discuss possible future directions on the Large Language Models field, with a special focus in multimodality and in context learning, in the Artificial Intelligence and Language group.
 
-I'm currently working as a Research Assistant at the [Department of Marketing](https://www.aalto.fi/en/department-of-marketing), studying the value that consumers attribute to artworks created with the assistance of generative AI in art auction sites.
+I'm currently working as a Research Assistant at the [Department of Marketing (School of Business) at Aalto University](https://www.aalto.fi/en/department-of-marketing), studying the value that consumers attribute to artworks created with the assistance of generative AI in art auction sites.
 
 As a child I started in the practice of judo and swimming. Nowadays, I enjoy going to the gym, watching movies, reading and travelling.
 
