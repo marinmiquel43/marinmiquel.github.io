@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: marinmiquel43.github.io/sitemap.xml
+Sitemap: https://marinmiquel43.github.io/sitemap.xml
