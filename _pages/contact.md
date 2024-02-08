@@ -7,6 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-You can reach me at [miquelmarin43@gmail.com](mailto:miquelmarin43@gmail.com) or [miquel.marincolome@aalto.fi](mailto:miquel.marincolome@aalto.fi).
+You can reach me at [miquel.marincolome@aalto.fi](mailto:miquel.marincolome@aalto.fi).
 
 I'm also on [LinkedIn](https://www.linkedin.com/in/miquel-marin-colome/).
